@@ -1,7 +1,7 @@
 # Bulk data from mongodb to elasticsearch
 
 1) Cài GO
-
+https://golang.org/dl/
 2) Cài Git(có hay không thì cũng được, có thể dùng Power Shell thay thế)
 
 3) Tạo directories
